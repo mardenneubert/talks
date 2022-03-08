@@ -186,23 +186,6 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
 
-Oh my zsh https://ohmyz.sh/ 
-Nerd fonts https://www.nerdfonts.com/ 
-Powerline 10k https://github.com/romkatv/powerlevel10k 
-Ls replacements
-https://github.com/ogham/exa
-https://github.com/dhruvkb/pls
-
-Cat replacements
-https://github.com/lunaryorn/mdcat
-https://github.com/atanunq/viu
-
-ITerm2 e outros (Windows e Mac)
-https://iterm2.com/
-https://sw.kovidgoyal.net/kitty/
-
-WSL2 - o que é, como instalar
-Temas para terminais - cores - ex.: Dracula 
 
 (Pratica)
 Sites de desafios
@@ -251,3 +234,24 @@ Podcasts
 
 Audible
 
+### Ferramentas para o terminal
+
+* [Oh My ZSH](https://ohmyz.sh/): Customizações para o shell ZSH.
+* [Powerline 10k](https://github.com/romkatv/powerlevel10k ): Tema para o Oh My ZSH
+* [Nerd fonts](https://www.nerdfonts.com/ ): Fontes especiais para terminal e programação.
+
+* Alternativas para o comando `ls`:
+	* https://github.com/ogham/exa
+	* https://github.com/dhruvkb/pls
+
+* Alternativas para o comando `cat`:
+	* https://github.com/lunaryorn/mdcat
+	* https://github.com/atanunq/viu
+
+* Terminais com mais recursos:
+	* [ITerm2](https://iterm2.com/)
+	* [Kitty](https://sw.kovidgoyal.net/kitty/)
+
+* [Dracula](https://draculatheme.com/iterm): tema de cores para o iTerm2, outros terminais e aplicações (IDEs, browsers, etc.).
+
+* [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install): Subsistema Linux dentro do Windows
