@@ -1,8 +1,8 @@
-Dicas para Viajantes no Tempo
+# Dicas para Viajantes no Tempo
 Não seria muito legal poder viajar no tempo e compartilhar o que você sabe hoje com o seu eu do passado? Ou viajar para o futuro e ver como você estará daqui a alguns anos, para poder corrigir sua trajetória? Nesta palestra, Marden Neubert vai fazer uma viagem virtual no tempo e passar pelas dicas que ele gostaria de dar para si mesmo se estivesse começando agora o curso de Ciência da Computação. Com quase 30 anos de experiência acadêmica e profissional em computação, Marden tem conselhos valiosos para você aproveitar o melhor do seu curso e entrar com tudo no mercado de trabalho. 
-Quem sou eu
+## Quem sou eu
 Marden Neubert acredita que sua missão é mostrar como a tecnologia pode simplificar e melhorar a vida das pessoas. Ele foi CTO do PagSeguro de 2016 até o início de 2022 e agora atua como consultor em tecnologia e estratégia. Anteriormente, ocupou posições em diversas áreas no Grupo UOL e foi professor de MBA na FIAP. Marden é bacharel e mestre em Ciência da Computação pela Universidade Federal de Minas Gerais.
-Introdução
+## Introdução
 Primeiro eu vou me apresentar. Meu nome é Marden Neubert, sou de Belo Horizonte. Eu fiz graduação e mestrado em Ciência da Computação na UFMG. No final do meu mestrado, eu entrei em uma startup formada dentro da UFMG que foi comprada pelo UOL. Eu me mudei para São Paulo e com o pessoal dessa startup, mais pessoas contratadas aqui, criamos o Brasil Online (BOL). Passei praticamente toda a minha carreira no Grupo UOL e minha última posição foi CTO do PagSeguro. Agora neste ano eu passei a ser consultor e conselheiro do PagSeguro. 
 
 Assim que recebi o convite, fui pensar no que falar em uma ocasião como esta. Na internet a gente encontra muitos discursos inspiradores, principalmente para se falar em uma formatura, mas eu não achei nada que me desse uma direção que eu dissesse "é isso".
@@ -25,7 +25,7 @@ Sim, é verdade… em março de 94 não tinha internet! Pelo menos, não tinha i
 
 Aliás, uma questão de ordem prática é que, para algumas das dicas que eu vou dar, faz mais sentido passar o link, daí para não ficar mostrando um monte de links nos slides e vocês terem que ficar anotando durante a apresentação, eu vou passar um link com as referências da apresentação. 
 
-É um trabalho de time
+## É um trabalho de time
 
 Uma área de tecnologia depende de uma gama de conhecimentos muitos variados, que podem ser divididos em várias áreas, cada área dessas com sua carreira e especialização. Mesmo se pensarmos somente em um time de desenvolvimento de sistemas, são muitas habilidades diferentes que precisamos ter.
 
@@ -41,7 +41,7 @@ Ou seja: aceite que você vai trabalhar em equipe durante toda sua carreira. Apr
 
 Use as oportunidades que o curso proporciona para desenvolver suas habilidades de comunicação. Isso vai ser tão ou mais importante quanto suas habilidades técnicas lá na frente, na sua vida profissional. Por exemplo, tire um tempo para estudar sozinho, mas também estude em grupos e faça os trabalhos em equipe - realmente como uma equipe (cada uma fazer uma parte e juntar tudo na véspera não funciona). O aprendizado é muito mais rico quando se tem outras pessoas por perto, com dúvidas diferentes e complementares às suas.
 
-Saiba aproveitar a internet
+##Saiba aproveitar a internet
 
 Hoje existe uma imensidão de fontes de informação e aprendizado na internet. Em 1994, tudo o que havia eram livros e os materiais do curso, como as apostilas que alguns professores faziam, não todos. Temos sites de todos os tipos como blogs, vídeos no YouTube, podcasts em várias plataformas, cursos completos de universidades como Stanford e MIT, assinaturas de livros técnicos ilimitados, ou seja, muito mais informação do que você vai conseguir consumir. Isso é muito valioso também para quem não está cursando Computação hoje, mas quer saber como é antes de entrar. Ou seja, dá para ter uma boa ideia de como é a área antes de se matricular em um curso formal.
 
@@ -51,7 +51,7 @@ Enfim, hoje o problema é o oposto: dado que existe tanta informação disponív
 
 Eu falei que redes sociais podem ser uma grande perda de tempo, mas uma dica que vou dar é para você entrar em uma rede social, veja que contraditório. Crie um perfil no GitHub. Para quem não conhece o GitHub, ele é uma “rede social” para quem escreve ou usa código-fonte (que hoje em dia significa todo mundo que estuda informática ou computação, porque tudo está indo pelo caminho de virar código-fonte). Ok, o GitHub não é exatamente uma rede social, mas lá você pode criar e configurar um perfil (é menos simples do que criar um perfil no Insta, mas existem bons exemplos), seguir outros perfis, ler código-fonte que interessar a você e também colocar lá o código-fonte que você criar. Por exemplo, você pode subir todos os trabalhos práticos da faculdade lá. Eles podem ficar privados (para isso é preciso ter a versão paga, mas não é muito caro) ou públicos (daí todo mundo pode ver). Entre os links que estão no conteúdo desta palestra, muitos são do GitHub.
 
-Só a prática leva à perfeição 
+##Só a prática leva à perfeição 
 
 Acho que o primeiro recado aqui é: não espere aprender tudo na universidade. 
 
@@ -65,7 +65,7 @@ Outra forma de praticar é ler códigos, ou seja, programas que já existem. Uma
 
 Outra dica para praticar é buscar um estágio em uma boa empresa, que procure ensinar, completar a formação dos estagiários e não só ter mão-de-obra a custo mais baixo. No PagSeguro, por exemplo, os estagiários selecionados são cortejados por representantes das diversas especialidades e escolhem em que time e especialidade querem começar - e depois podem trocar. E aí vem a possibilidade de praticar e aprender numa empresa, mas enquanto ainda estão na universidade. Um dos artigos que eu compartilho no texto da palestra fala que são nos seus primeiros empregos que você mais tem chances de aprender, porque depois você vai ser cobrado por entregar e provavelmente vai estar usando as mesmas tecnologias por um tempo maior. Então procurem estágios em empresas que valorizam o aprendizado do estagiário e que permitem que você experimente mais de uma área ou função.
 
-Fique à vontade com o inglês
+##Fique à vontade com o inglês
 
 Eu vou abrir essa dica dizendo algo que provavelmente vocês já sabem: mais de 99% dos conteúdos de qualidade em computação na internet estão em inglês. Então, sabendo pelo menos ler (e talvez ouvir) um pouco de inglês, você já vai potencializar muito o "Saiba usar a internet" que eu falei antes.
 
@@ -73,7 +73,7 @@ Além disso, se comunicar bem inglês vai abrir mais oportunidades de emprego em
 
 Resumindo: saber ler é o mínimo, senão você não aproveita a imensa maioria do conteúdo de computação da internet. Ouvir é o próximo passo, assim você consegue aproveitar vídeos e podcasts, assistir uma conferência (inclusive presencialmente). Mais um bônus se você puder escrever em inglês, assim você pode interagir em fóruns, trocar e-mails e até fazer algum trabalho remoto. Agora, se você também ficar confortável em falar em inglês, aí você pode participar ativamente de conferências, fazer networking fora do Brasil e aplicar para empregos em empresas internacionais. Ganhar em dólar, talvez?
 
-Tenha brio
+##Tenha brio
 
 Eu assisti uma vez uma palestra do filósofo Clóvis de Barros que me marcou bastante. Ele falava muito em “ter brio”, daí escolhi esse nome para esta dica. O link para o vídeo do Clóvis está na versão em texto que vou compartilhar - já aviso que tem bastante palavrão 😁 - mas a palestra é boa para dar uma sacudida e mostrar que dá para ir mais a fundo nos estudos, não aceitar ficar sem entender um conceito, ter aquele incômodo para não deixar nada passar. Claro que isso também vale para quem já está trabalhando.
 
@@ -87,7 +87,7 @@ Quando estiver estudando, não se satisfaça em ler o material - pratique (a dic
 
 Agora, se existir algum teste sobre o conteúdo que você está estudando, dedique um tempo para fazer o teste. Da mesma forma, separe um período sem interrupções, concentre-se totalmente no teste e depois relaxe por alguns minutos. É importante você conseguir ter esses tempos de concentração ininterrupta para conseguir aprender novas habilidades.
 
-Busque a essência 
+##Busque a essência 
 
 A essência desta dica 😉 é a seguinte: a área de tecnologia, de computação é muito vasta e não é possível conhecer cada sub-área, cada tecnologia, cada processo, em profundidade, porque isso requer prática e simplesmente não há tempo disponível, nem em toda sua carreira. Eu citei isso lá em “É um trabalho de equipe”. Então procure conhecer a essência, ou seja, os conceitos fundamentais, das diversas áreas com as quais você interage, além de dominar em profundidade a sua especialidade. É na linha do profissional em “T” que eu falei antes também. 
 
@@ -101,16 +101,16 @@ Buscar a essência também se conecta com a capacidade de se ter uma visão mais
 
 A mesma coisa vale para processos. Voltando para processos de software, Scrum, Kanban, etc. representam “como”, ou seja, são a implementação de algo mais fundamental. Agilidade é a essência. É muito mais difícil de “cair a ficha” (na língua inglesa é o "a-ha moment"), mas quando a ficha cai, você corta um monte de voltas e vai direto no ponto. Os métodos ajudam a pegar não mão e dizer como fazer - e isso é importante também - mas a essência é que te mantém com os olhos no objetivo final. Mas não é fácil cair a ficha, para isso você tem que praticar primeiro, buscar ter experiências reais e estar presente, vivenciar, refletir, pensar sobre o que está se passando, e não simplesmente deixar a onda levar quando se está em um time ágil, por exemplo. E com isso, fica claro que o que eu falei aqui se conecta com a dica "Só a prática leva à perfeição".
 
-Não entre em flame war
+##Não entre em flame war
 
 Durante esses meus anos de experiência eu vi várias flame wars. Vou recordar só algumas mais relacionadas a desenvolvimento:
 
-- Emacs vs Vi
-- Mac vs PC
-- Windows vs Linux
-- IntelliJ vs Eclipse
-- Java vs C#
-- Programação orientada a objetos vs programação funcional (a mais recente)
+* Emacs vs Vi
+* Mac vs PC
+* Windows vs Linux
+* IntelliJ vs Eclipse
+* Java vs C#
+* Programação orientada a objetos vs programação funcional (a mais recente)
 
 E certamente estou me esquecendo de várias… Minha conclusão é que esse tipo de discussão, quando ela vai para a linha de cada um falar o que é bom do seu lado e criticar o outro, nunca leva a nada, só a tempo perdido. 
 
@@ -122,7 +122,7 @@ Minha recomendação é nunca entrar em uma discussão desse tipo, sobretudo se 
 
 E, uma recomendação final: não tenha vergonha de mudar de opinião. Especialmente hoje em dia, na internet, todo mundo tem uma opinião sobre tudo, inclusive sobre coisas que não conhece bem. E muito pouca gente tem o hábito de reconhecer que errou em sua avaliação, ou dar razão para o outro. Então sejam diferentes: saibam mudar de opinião e dar razão ao outro lado quando fizer sentido.
 
-A linha de comando é sua amiga
+##A linha de comando é sua amiga
 
 A dica final que tenho é mais técnica, bem prática e eu quis incluir para não ficar só nos conceitos mais abstratos. Eu também quis buscar uma dica que valesse para qualquer especialidade que você buscar, não só para desenvolvimento ou administração de sistemas. Então a dica aqui é dominar a linha de comando do sistema operacional da sua escolha. Os argumentos a favor de usar mais a linha de comando são vários.
 
@@ -136,7 +136,7 @@ Com isso, se você troca seu note, por exemplo, tudo estará salvo em um único 
 
 Outra dica nessa linha é: conheça bem os recursos do seu sistema operacional. Hoje em dia todos os grandes sistemas operacionais têm uma linha de comando Linux. Mac tem o terminal, Windows tem o WSL (um Linux dentro do Windows).
 
-Conclusão 
+##Conclusão 
 
 Pessoal, eu gostaria de concluir este bate-papo em primeiro lugar agradecendo pela atenção de vocês. Sei que quem está aqui é por escolha própria, então fico honrado em vocês terem dedicado o seu tempo para ouvir o que eu tinha para dizer. 
 
@@ -144,7 +144,7 @@ Para quem está no curso de computação, ou para quem está aqui pensando em fa
 
 A mensagem final que eu quero deixar é que este é um momento único na vida de vocês, portanto, aproveitem da melhor forma possível. Talvez alguns de vocês já tenham feito algum curso universitário antes ou ainda vão fazer algum depois, mas não deixem de aproveitar tudo: as aulas, os grupos de estudo e os trabalhos práticos. Estejam presentes, de corpo e mente, não se deixem só se levar pela inércia. Como eu disse em uma das dicas: façam coisas em grupo, comecem a fazer sua rede profissional e façam amizades - essas a gente leva para a vida toda.
 
-Referências
+##Referências
 
 Canais no YouTube:
 
@@ -192,7 +192,7 @@ Kaggle
 De um artigo do Medium: https://medium.com/tebs-lab/a-lifetime-of-learning-to-code-df1a9889c403
 
 
-Palestra do Clovis de Barros (atenção: linguagem inapropriada!): https://youtu.be/TRPBYlxJfE
+Palestra do Clovis de Barros (atenção: linguagem inapropriada!): https://youtu.be/TRPBY_lxJfE
 
 Curso para assistir: Learning How To Learn, do Coursera. 
 
@@ -202,7 +202,7 @@ Exemplo: sites de desafios de programação:
 
 Lista com sites: https://programmingzen.com/15-sites-for-programming-exercises/
 
-Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python: https://www.amazon.com.br/dp/8575228056/ref=cmswrawdoDMT24X18B01X2F5Y50HY
+Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python: https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY
 
 Citar novamente o Advent of Code. 
 
@@ -223,16 +223,11 @@ Stanford free online courses - https://online.stanford.edu/free-courses
 Google Coding Competitions - https://codingcompetitions.withgoogle.com/
 
 Podcasts
-RealPython
-Talk Python to me
-ThoughtWorks
-IEEE Software
-Alura
+	RealPython
+	Talk Python to me
+	ThoughtWorks
+	IEEE Software
+	Alura
 
 Audible
-
-
-
-
-
 
