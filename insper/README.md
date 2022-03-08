@@ -1,9 +1,22 @@
 # Dicas para Viajantes no Tempo
+
+# Resumo
+
 Não seria muito legal poder viajar no tempo e compartilhar o que você sabe hoje com o seu eu do passado? Ou viajar para o futuro e ver como você estará daqui a alguns anos, para poder corrigir sua trajetória? Nesta palestra, Marden Neubert vai fazer uma viagem virtual no tempo e passar pelas dicas que ele gostaria de dar para si mesmo se estivesse começando agora o curso de Ciência da Computação. Com quase 30 anos de experiência acadêmica e profissional em computação, Marden tem conselhos valiosos para você aproveitar o melhor do seu curso e entrar com tudo no mercado de trabalho. 
-## Quem sou eu
+
+## Sobre o palestrante
+
 Marden Neubert acredita que sua missão é mostrar como a tecnologia pode simplificar e melhorar a vida das pessoas. Ele foi CTO do PagSeguro de 2016 até o início de 2022 e agora atua como consultor em tecnologia e estratégia. Anteriormente, ocupou posições em diversas áreas no Grupo UOL e foi professor de MBA na FIAP. Marden é bacharel e mestre em Ciência da Computação pela Universidade Federal de Minas Gerais.
+
+## Abertura
+
+Olá, boa tarde a todos. Para mim é uma grande honra ser convidado para falar para uma turma de Ciência da Computação, ainda mais no início do curso, o que me dá a oportunidade de deixar uma mensagem que possa acompanhar vocês ao longo dessa jornada. E o que torna esta oportunidade ainda mais especial é o fato desta ser a primeira turma de Computação do Insper. Por tudo isso, agradeço muito à professora Graziela pelo convite.
+
+## Sobre mim
+
+Meu nome é Marden Neubert, sou de Belo Horizonte, Minas Gerais. Eu fiz graduação e mestrado em Ciência da Computação na UFMG. No final do meu mestrado, eu entrei em uma startup formada dentro da UFMG que foi comprada pelo UOL. Eu me mudei para São Paulo e, com o pessoal dessa startup e pessoas contratadas aqui, criamos o Brasil Online (BOL). Passei praticamente toda a minha carreira no Grupo UOL e minha última posição lá foi CTO do PagSeguro. Agora neste ano eu passei a ser consultor e continuo ajudando o PagSeguro com recrutamento e outras atividades. 
+
 ## Introdução
-Primeiro eu vou me apresentar. Meu nome é Marden Neubert, sou de Belo Horizonte. Eu fiz graduação e mestrado em Ciência da Computação na UFMG. No final do meu mestrado, eu entrei em uma startup formada dentro da UFMG que foi comprada pelo UOL. Eu me mudei para São Paulo e com o pessoal dessa startup, mais pessoas contratadas aqui, criamos o Brasil Online (BOL). Passei praticamente toda a minha carreira no Grupo UOL e minha última posição foi CTO do PagSeguro. Agora neste ano eu passei a ser consultor e conselheiro do PagSeguro. 
 
 Assim que recebi o convite, fui pensar no que falar em uma ocasião como esta. Na internet a gente encontra muitos discursos inspiradores, principalmente para se falar em uma formatura, mas eu não achei nada que me desse uma direção que eu dissesse "é isso".
 
