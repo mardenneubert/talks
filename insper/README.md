@@ -30,6 +30,8 @@ Alguém reconhece essas notas? Nem eu, porque elas circularam só entre agosto d
 
 E essa camisa aqui, alguém se lembra? Acho que sim, né, porque essa deixou boas lembranças (quem nunca viu o vídeo - ou o meme - do Galvão gritando “É tetra!”?). Quantas estrelas tinham aí? Só três, porque a quarta só viria em julho de 94.
 
+<img src="https://github.com/mardenneubert/talks/blob/53f0a4a328fb99bae9b15e9fc7a33bba30de8b50/insper/pc50-ii.gif" width=300 align=left>
+
 Agora isso aqui é o que se tinha de mais moderno em computador pessoal na época. Um PC com um Intel 386 rodando Windows 3.1. Eu tinha um 386 DX2 66, que tinha esse nome porque tinha um processador de 66 MHz, 2x mais rápido que os outros na época. O meu tinha impressionantes 4MB de RAM. No ano seguinte eu instalei Linux nele e minha vida mudou para sempre…
 
 E esse jovem aqui, dá para ter ideia de quem é? Não está parecendo muito animado, não é? Sou eu quando entrei na universidade no curso de Ciência da Computação da UFMG em 1994 - essa foto meu pai tirou lá no campus e dá para ver que eu não queria tirar… 
