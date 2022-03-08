@@ -22,7 +22,7 @@ Assim que recebi o convite, fui pensar no que falar em uma ocasião como esta. N
 
 Então, já que eu também fiz Computação, eu pensei que seria uma boa começar com uma viagem no tempo… Pensei em levar vocês 28 anos atrás, para o longínquo ano de 1994, exatamente neste mês de março. Imagino que a imensa maioria de vocês, senão todos vocês, ainda não tinham nascido naquele ano, então incluí alguns fatos e imagens aqui para ajudar a ter uma ideia de como eram as coisas nessa época. 
 
-![Notas](./5000-cruzeiros-reais.jpg)
+![Notas](https://github.com/mardenneubert/talks/blob/169167760cea0a04e2e8e13d7ed69a43ac644d0a/insper/5000-cruzeiros-reais.png)
 
 Alguém reconhece essas notas? Nem eu, porque elas circularam só entre agosto de 1993 a junho de 1994. Esse é o Cruzeiro Real, que foi substituído pelo Real, a moeda que temos até hoje.
 
