@@ -167,24 +167,23 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 
 ## Referências
 
-Canais no YouTube:
+### YouTube
 
-Computerphile: https://youtube.com/user/Computerphile
-(É um spin off do canal Numberphile)
+* [Computerphile](https://youtube.com/user/Computerphile): vídeos sobre Ciência da Computação, com um viés mais científico. É um spin off do canal [Numberphile](https://www.youtube.com/c/numberphile), para quem gosta de matemática.
 
-ThoughtWorks: https://youtube.com/c/thoughtworks
+* [ThoughtWorks](https://youtube.com/c/thoughtworks): novas tecnologias, tendências.
 
-MIT (não só computação): https://youtube.com/c/mitocw
+* [MIT Open Courseware](https://youtube.com/c/mitocw): Vídeos de aulas do MIT, não só de computação.
 
-Free Code Camp: https://youtube.com/c/freeCodeCampTalks
+* [Free Code Camp](https://youtube.com/c/freeCodeCampTalks): tutoriais, vídeos introdutórios.
 
-CodingTech: https://youtube.com/c/CodingTech
+* [CodingTech](https://youtube.com/c/CodingTech): linguagens e tecnologias.
 
-InfoQ: https://youtube.com/nctv
+* [InfoQ](https://youtube.com/nctv): palestras, discussões sobre tecnologias.
 
-O’Reilly: https://youtube.com/oreilly
+* [O’Reilly](https://youtube.com/oreilly): livros, novas tecnologias.
 
-Python Bytes: https://youtube.com/c/PythonBytesPodcast
+* [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
 
 Oh my zsh https://ohmyz.sh/ 
