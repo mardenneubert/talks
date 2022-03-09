@@ -207,6 +207,7 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [Palestra do Clovis de Barros](https://youtu.be/TRPBY_lxJfE): Atenção! ⚠️ Linguagem inapropriada...
 * [Curso Learning How To Learn, no Coursera](https://www.coursera.org/learn/learning-how-to-learn). 
 * [Lista de apps para Pomodoro](https://zapier.com/blog/best-pomodoro-apps/) e uma outra [boa opção online](https://pomofocus.io/).
+* [The T-Shaped Engineer](https://alexkondov.com/the-t-shaped-engineer/): sobre as habilidades em "T".
 
 ### Livros
 
