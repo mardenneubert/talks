@@ -210,10 +210,10 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 
 ### Livros
 
-* Luciano Ramalho - Fluent Python 2nd ed. - outros links para palestras, etc. do Luciano
-* Neal Ford and Mark Richards - Fundamentals of Software Architecture
-* David Thomas, Andrew Hunt - The Pragmatic Programmer, 2nd Edition
-* Jeff Sutherland - Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
+* [Python Fluente: Programação Clara, Concisa e Eficaz](https://www.amazon.com.br/Python-Fluente-Programa%25C3%25A7%25C3%25A3o-Concisa-Eficaz/dp/857522462X/ref=sr_1_1?&_encoding=UTF8&tag=mardenneubert-20&linkCode=ur2&linkId=05f2b17f5c8468b98d362f7faa0463c0&camp=1789&creative=9325), Luciano Ramalho. Vai sair este ano ainda uma segunda edição em inglês.
+    * [As palestras do Luciano](https://speakerdeck.com/ramalho) são muito interessantes e cobrem outros assuntos além de Python.
+* [Fundamentals of Software Architecture](https://www.amazon.com.br/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73/ref=sr_1_1?&_encoding=UTF8&tag=mardenneubert-20&linkCode=ur2&linkId=6b824ebbfca5a5f4880cff13f1850eba&camp=1789&creative=9325), Neal Ford e Mark Richards.
+* [The Pragmatic Programmer](https://www.amazon.com.br/Programador-Pragm%25C3%25A1tico-Aprendiz-Mestre/dp/8577807002/ref=sr_1_1?&_encoding=UTF8&tag=mardenneubert-20&linkCode=ur2&linkId=e0c44b18cede997488c651b2f85503dc&camp=1789&creative=9325), David Thomas e Andrew Hunt. Uma nova edição está disponível em inglês.
 * [Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python](https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY)
 
 
