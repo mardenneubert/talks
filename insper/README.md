@@ -186,11 +186,28 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
 
+### Links gerais
+
+* [GitHub](https://github.com/): Repositório para controle de versões de software. Boa parte dos projetos opensource estão lá e você pode guardar os seus lá também.
+* [Reddit](https://reddit.com): Site de fóruns para discussões, debates, com diversos tópicos de Computação. Alguns interessantes:
+    * [Ciência da Computação](https://www.reddit.com/r/computerscience/)
+    * [Linguagens de Programação](https://www.reddit.com/r/ProgrammingLanguages/)
+    * [Machine Learning](https://www.reddit.com/r/MachineLearning/)
+    * [Python](https://www.reddit.com/r/Python/)
+* [O'Reilly](https://www.oreilly.com/): Plataforma de aprendizagem online, voltada para tecnologia, com *todos* os livros da editora O'Reilly (e de várias outras), vídeos, tutoriais, etc.
+* [Coursera](https://www.coursera.org/): Site de cursos online (MOOCs) com diversos cursos avulsos e formações completas.
+* [MIT Open Courseware](https://ocw.mit.edu/): Site com todo o conteúdo de cursos online do MIT.
+* [Stanford free online courses](https://online.stanford.edu/free-courses): Site com cursos gratuitos online de Stanford.
+
+
+RealPython.com
 
 (Pratica)
 Sites de desafios
 Advent of code
 Kaggle
+
+Google Coding Competitions - https://codingcompetitions.withgoogle.com/
 
 De um artigo do Medium: https://medium.com/tebs-lab/a-lifetime-of-learning-to-code-df1a9889c403
 
@@ -216,14 +233,6 @@ Neal Ford and Mark Richards - Fundamentals of Software Architecture
 David Thomas, Andrew Hunt - The Pragmatic Programmer, 2nd Edition
 Jeff Sutherland - Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
 
-GitHub
-RealPython.com
-Reddit
-Learning O'Reilly
-Coursera
-MIT Open Courseware - https://ocw.mit.edu/
-Stanford free online courses - https://online.stanford.edu/free-courses
-Google Coding Competitions - https://codingcompetitions.withgoogle.com/
 
 Podcasts
 	RealPython
