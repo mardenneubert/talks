@@ -170,25 +170,19 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 ### YouTube
 
 * [Computerphile](https://youtube.com/user/Computerphile): vídeos sobre Ciência da Computação, com um viés mais científico. É um spin off do canal [Numberphile](https://www.youtube.com/c/numberphile), para quem gosta de matemática.
-
 * [ThoughtWorks](https://youtube.com/c/thoughtworks): novas tecnologias, tendências.
-
 * [MIT Open Courseware](https://youtube.com/c/mitocw): Vídeos de aulas do MIT, não só de computação.
-
 * [Free Code Camp](https://youtube.com/c/freeCodeCampTalks): tutoriais, vídeos introdutórios.
-
 * [CodingTech](https://youtube.com/c/CodingTech): linguagens e tecnologias.
-
 * [InfoQ](https://youtube.com/nctv): palestras, discussões sobre tecnologias.
-
 * [O’Reilly](https://youtube.com/oreilly): livros, novas tecnologias.
-
 * [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
 
 ### Links gerais, plataformas
 
 * [GitHub](https://github.com/): Repositório para controle de versões de software. Boa parte dos projetos opensource estão lá e você pode guardar os seus lá também.
+    * [Post com diversos repositórios interessantes no GitHub](https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351) (incluindo alguns que cito em outras referências).
 * [Reddit](https://reddit.com): Site de fóruns para discussões, debates, com diversos tópicos de Computação. Alguns interessantes:
     * [Ciência da Computação](https://www.reddit.com/r/computerscience/)
     * [Linguagens de Programação](https://www.reddit.com/r/ProgrammingLanguages/)
@@ -201,47 +195,34 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 
 ### Prática de programação
 
+* [Artigo interessante sobre aprendizado durante a carreira](https://medium.com/tebs-lab/a-lifetime-of-learning-to-code-df1a9889c403)
 * [Advent of Code](https://adventofcode.com/): Site com desafios de programação, 25 problemas por ano, apresentados no mês de dezembro.
-* [Google Coding Competitions](https://codingcompetitions.withgoogle.com/)
+* [Google Coding Competitions](https://codingcompetitions.withgoogle.com/): Desafios de programação do Google.
 * [Post com vários sites com desafios de programação](https://programmingzen.com/15-sites-for-programming-exercises/).
 * [Kaggle](https://www.kaggle.com/): Site com diversos projetos e desafios em DataScience.
-* [Post com diversos repositórios interessantes no GitHub](https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351).
+* [Real Python](https://realpython.com/): Site com diversos tutoriais, lições e referências sobre Python.
 
-RealPython.com
+### Tenha brio
 
+* [Palestra do Clovis de Barros](https://youtu.be/TRPBY_lxJfE): Atenção! ⚠️ Linguagem inapropriada...
+* [Curso Learning How To Learn, no Coursera](https://www.coursera.org/learn/learning-how-to-learn). 
+* [Lista de apps para Pomodoro](https://zapier.com/blog/best-pomodoro-apps/) e uma outra [boa opção online](https://pomofocus.io/).
 
-De um artigo do Medium: https://medium.com/tebs-lab/a-lifetime-of-learning-to-code-df1a9889c403
+### Livros
 
-
-Palestra do Clovis de Barros (atenção: linguagem inapropriada!): https://youtu.be/TRPBY_lxJfE
-
-Curso para assistir: Learning How To Learn, do Coursera. 
-
-App para Pomodoro.
-
-Exemplo: sites de desafios de programação: 
-
-
-Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python: https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY
-
-Citar novamente o Advent of Code. 
+* Luciano Ramalho - Fluent Python 2nd ed. - outros links para palestras, etc. do Luciano
+* Neal Ford and Mark Richards - Fundamentals of Software Architecture
+* David Thomas, Andrew Hunt - The Pragmatic Programmer, 2nd Edition
+* Jeff Sutherland - Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
+* [Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python](https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY)
 
 
-
-Luciano Ramalho - Fluent Python 2nd ed. - outros links para palestras, etc. do Luciano
-Neal Ford and Mark Richards - Fundamentals of Software Architecture
-David Thomas, Andrew Hunt - The Pragmatic Programmer, 2nd Edition
-Jeff Sutherland - Scrum: A Arte de Fazer o Dobro do Trabalho na Metade do Tempo
-
-
-Podcasts
-	RealPython
-	Talk Python to me
-	ThoughtWorks
-	IEEE Software
-	Alura
-
-Audible
+### Podcasts
+* RealPython
+* Talk Python to me
+* ThoughtWorks
+* IEEE Software
+* Alura
 
 ### Ferramentas para o terminal
 
