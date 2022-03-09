@@ -186,7 +186,7 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
 
-### Links gerais
+### Links gerais, plataformas
 
 * [GitHub](https://github.com/): Repositório para controle de versões de software. Boa parte dos projetos opensource estão lá e você pode guardar os seus lá também.
 * [Reddit](https://reddit.com): Site de fóruns para discussões, debates, com diversos tópicos de Computação. Alguns interessantes:
@@ -199,15 +199,16 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [MIT Open Courseware](https://ocw.mit.edu/): Site com todo o conteúdo de cursos online do MIT.
 * [Stanford free online courses](https://online.stanford.edu/free-courses): Site com cursos gratuitos online de Stanford.
 
+### Prática de programação
+
+* [Advent of Code](https://adventofcode.com/): Site com desafios de programação, 25 problemas por ano, apresentados no mês de dezembro.
+* [Google Coding Competitions](https://codingcompetitions.withgoogle.com/)
+* [Post com vários sites com desafios de programação](https://programmingzen.com/15-sites-for-programming-exercises/).
+* [Kaggle](https://www.kaggle.com/): Site com diversos projetos e desafios em DataScience.
+* [Post com diversos repositórios interessantes no GitHub](https://towardsdatascience.com/20-amazing-github-repositories-every-developer-should-follow-d8ce4c728351).
 
 RealPython.com
 
-(Pratica)
-Sites de desafios
-Advent of code
-Kaggle
-
-Google Coding Competitions - https://codingcompetitions.withgoogle.com/
 
 De um artigo do Medium: https://medium.com/tebs-lab/a-lifetime-of-learning-to-code-df1a9889c403
 
@@ -220,7 +221,6 @@ App para Pomodoro.
 
 Exemplo: sites de desafios de programação: 
 
-Lista com sites: https://programmingzen.com/15-sites-for-programming-exercises/
 
 Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python: https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY
 
