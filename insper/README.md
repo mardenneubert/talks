@@ -221,7 +221,7 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [Real Python](https://podcasts.apple.com/br/podcast/the-real-python-podcast/id1501905538)
 * [Talk Python to me](https://podcasts.apple.com/br/podcast/talk-python-to-me/id979020229)
 * [Python Bytes](https://podcasts.apple.com/br/podcast/python-bytes/id1173690032)
-* ThoughtWorks
+* [ThoughtWorks](https://podcasts.apple.com/br/podcast/thoughtworks-technology-podcast/id881136697)
 * [Software Engineering Radio](https://podcasts.apple.com/br/podcast/software-engineering-radio-the-podcast-for/id120906714): podcast da IEEE Software
 * [Complete Developer](https://podcasts.apple.com/br/podcast/complete-developer-podcast/id1039210992)
 * A [Alura](https://www.alura.com.br/) tem bons podcasts em português: [Dev sem Fronteiras](https://podcasts.apple.com/br/podcast/dev-sem-fronteiras/id1586016312) e [Hipsters Ponto Tech](https://podcasts.apple.com/br/podcast/hipsters-ponto-tech/id1133325943)
