@@ -1,12 +1,8 @@
 # Dicas para Viajantes no Tempo
 
-# Resumo
-
 Não seria muito legal poder viajar no tempo e compartilhar o que você sabe hoje com o seu eu do passado? Ou viajar para o futuro e ver como você estará daqui a alguns anos, para poder corrigir sua trajetória? Nesta palestra, Marden Neubert vai fazer uma viagem virtual no tempo e passar pelas dicas que ele gostaria de dar para si mesmo se estivesse começando agora o curso de Ciência da Computação. Com quase 30 anos de experiência acadêmica e profissional em computação, Marden tem conselhos valiosos para você aproveitar o melhor do seu curso e entrar com tudo no mercado de trabalho. 
 
-## Sobre o palestrante
-
-Marden Neubert acredita que sua missão é mostrar como a tecnologia pode simplificar e melhorar a vida das pessoas. Ele foi CTO do PagSeguro de 2016 até o início de 2022 e agora atua como consultor em tecnologia e estratégia. Anteriormente, ocupou posições em diversas áreas no Grupo UOL e foi professor de MBA na FIAP. Marden é bacharel e mestre em Ciência da Computação pela Universidade Federal de Minas Gerais.
+> Marden Neubert acredita que sua missão é mostrar como a tecnologia pode simplificar e melhorar a vida das pessoas. Ele foi CTO do PagSeguro de 2016 até o início de 2022 e agora atua como consultor em tecnologia e estratégia. Anteriormente, ocupou posições em diversas áreas no Grupo UOL e foi professor de MBA na FIAP. Marden é bacharel e mestre em Ciência da Computação pela Universidade Federal de Minas Gerais.
 
 ## Abertura
 
