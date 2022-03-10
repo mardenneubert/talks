@@ -178,7 +178,6 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [O’Reilly](https://youtube.com/oreilly): livros, novas tecnologias.
 * [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
-
 ### Links gerais, plataformas
 
 * [GitHub](https://github.com/): Repositório para controle de versões de software. Boa parte dos projetos opensource estão lá e você pode guardar os seus lá também.
@@ -215,15 +214,17 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
     * [As palestras do Luciano](https://speakerdeck.com/ramalho) são muito interessantes e cobrem outros assuntos além de Python.
 * [Fundamentals of Software Architecture](https://www.amazon.com.br/Fundamentals-Software-Architecture-Engineering-Approach-ebook/dp/B0849MPK73/ref=sr_1_1?&_encoding=UTF8&tag=mardenneubert-20&linkCode=ur2&linkId=6b824ebbfca5a5f4880cff13f1850eba&camp=1789&creative=9325), Neal Ford e Mark Richards.
 * [The Pragmatic Programmer](https://www.amazon.com.br/Programador-Pragm%25C3%25A1tico-Aprendiz-Mestre/dp/8577807002/ref=sr_1_1?&_encoding=UTF8&tag=mardenneubert-20&linkCode=ur2&linkId=e0c44b18cede997488c651b2f85503dc&camp=1789&creative=9325), David Thomas e Andrew Hunt. Uma nova edição está disponível em inglês.
-* [Ciência da Computação em Python: Problemas Clássicos de Ciência da Computação com Python](https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY)
+* [Ciência da Computação em Python](https://www.amazon.com.br/dp/8575228056/ref=cm_sw_r_awdo_DMT24X18B01X2F5Y50HY): Problemas Clássicos de Ciência da Computação com Python.
 
 
 ### Podcasts
-* RealPython
-* Talk Python to me
+* [Real Python](https://podcasts.apple.com/br/podcast/the-real-python-podcast/id1501905538)
+* [Talk Python to me](https://podcasts.apple.com/br/podcast/talk-python-to-me/id979020229)
+* [Python Bytes](https://podcasts.apple.com/br/podcast/python-bytes/id1173690032)
 * ThoughtWorks
-* IEEE Software
-* Alura
+* [Software Engineering Radio](https://podcasts.apple.com/br/podcast/software-engineering-radio-the-podcast-for/id120906714): podcast da IEEE Software
+* [Complete Developer](https://podcasts.apple.com/br/podcast/complete-developer-podcast/id1039210992)
+* A [Alura](https://www.alura.com.br/) tem bons podcasts em português: [Dev sem Fronteiras](https://podcasts.apple.com/br/podcast/dev-sem-fronteiras/id1586016312) e [Hipsters Ponto Tech](https://podcasts.apple.com/br/podcast/hipsters-ponto-tech/id1133325943)
 
 ### Ferramentas para o terminal
 
