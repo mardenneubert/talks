@@ -157,17 +157,6 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 
 ## Referências
 
-### YouTube
-
-* [Computerphile](https://youtube.com/user/Computerphile): vídeos sobre Ciência da Computação, com um viés mais científico. É um spin off do canal [Numberphile](https://www.youtube.com/c/numberphile), para quem gosta de matemática.
-* [ThoughtWorks](https://youtube.com/c/thoughtworks): novas tecnologias, tendências.
-* [MIT Open Courseware](https://youtube.com/c/mitocw): Vídeos de aulas do MIT, não só de computação.
-* [Free Code Camp](https://youtube.com/c/freeCodeCampTalks): tutoriais, vídeos introdutórios.
-* [CodingTech](https://youtube.com/c/CodingTech): linguagens e tecnologias.
-* [InfoQ](https://youtube.com/nctv): palestras, discussões sobre tecnologias.
-* [O’Reilly](https://youtube.com/oreilly): livros, novas tecnologias.
-* [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
-
 ### Links gerais, plataformas
 
 * [GitHub](https://github.com/): Repositório para controle de versões de software. Boa parte dos projetos opensource estão lá e você pode guardar os seus lá também.
@@ -181,6 +170,17 @@ A mensagem final que eu quero deixar é que este é um momento único na vida de
 * [Coursera](https://www.coursera.org/): Site de cursos online (MOOCs) com diversos cursos avulsos e formações completas.
 * [MIT Open Courseware](https://ocw.mit.edu/): Site com todo o conteúdo de cursos online do MIT.
 * [Stanford free online courses](https://online.stanford.edu/free-courses): Site com cursos gratuitos online de Stanford.
+
+### YouTube
+
+* [Computerphile](https://youtube.com/user/Computerphile): vídeos sobre Ciência da Computação, com um viés mais científico. É um spin off do canal [Numberphile](https://www.youtube.com/c/numberphile), para quem gosta de matemática.
+* [ThoughtWorks](https://youtube.com/c/thoughtworks): novas tecnologias, tendências.
+* [MIT Open Courseware](https://youtube.com/c/mitocw): Vídeos de aulas do MIT, não só de computação.
+* [Free Code Camp](https://youtube.com/c/freeCodeCampTalks): tutoriais, vídeos introdutórios.
+* [CodingTech](https://youtube.com/c/CodingTech): linguagens e tecnologias.
+* [InfoQ](https://youtube.com/nctv): palestras, discussões sobre tecnologias.
+* [O’Reilly](https://youtube.com/oreilly): livros, novas tecnologias.
+* [Python Bytes](https://youtube.com/c/PythonBytesPodcast): Videocast sobre Python.
 
 ### Prática de programação
 
